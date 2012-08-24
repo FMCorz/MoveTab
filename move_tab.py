@@ -46,6 +46,7 @@ class MoveTabCommand(sublime_plugin.WindowCommand):
 			return
 
 		self.window.set_view_index(view, group, position)
+		self.window.focus_view(view)
 
 	def is_enabled(self):
 		view = self.window.active_view()
