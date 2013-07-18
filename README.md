@@ -13,10 +13,12 @@ The following commands are accessible via the command palette:
 - Move Tab: To first position
 - Move Tab: To last position
 
-The shortcuts are:
+The default shortcuts are:
 
-- Linux/Windows: CTRL + Shift + (Page up / Page down / Home / End)
-- MacOS X: Command + Alt + Shift + (Left / Right / Up / Down)
+- Linux/Windows: CTRL + Shift + (Page up / Page down)
+- MacOS X: Command + Alt + Shift + (Left / Right)
+
+*Shortcuts to move to first or last position are disabled by default.*
 
 Installation
 ------------
