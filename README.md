@@ -20,14 +20,21 @@ The default shortcuts are:
 
 *Shortcuts to move to first or last position are disabled by default.*
 
+Requirements
+------------
+
+Sublime Text 2 or 3.
+
 Installation
 ------------
 
-Clone this repository into the Packages directory. If you don't know where it is, enter the following command in the console:
+Use the Package Control.
 
-    print sublime.packages_path()
+	Command palette > Package Control: Install Package
 
-_To access the console press CTRL + `_
+Alternatively, simply clone this repository into the Packages directory.
+
+	Preferences > Browse Packages...
 
 License
 -------
